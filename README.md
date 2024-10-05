@@ -4,12 +4,12 @@ Based on RS-485 interface and MODBUS-RTU communication protocol, real-time readi
 
 **Temperature acquisition and thermal conductivity calculation:**
 
-![image](pictures/ui1.png#pic_center)
+![image](pictures/ui1.png)
 
 **Temperature change and thermal conductivity curve:**
 
-![image](pictures/ui2.png#pic_center)
+![image](pictures/ui2.png)
 
 **Data saved:**
 
-![image](pictures/ui3.png#pic_center)
+![image](pictures/ui3.png)
