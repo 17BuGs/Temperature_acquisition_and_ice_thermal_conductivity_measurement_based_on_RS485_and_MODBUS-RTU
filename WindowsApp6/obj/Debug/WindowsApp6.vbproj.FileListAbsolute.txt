@@ -1,0 +1,148 @@
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.pdb
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.xml
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.exe
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.xml
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.pdb
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.pdb
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.xml
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbprojAssemblyReference.cache
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.exe
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.xml
+H:\桌面文件\材料专业训练\2017年专业技能训练\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\冰测量温度软件\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改)\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2)\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(改) - 副本 (2) - 副本\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final) - 副本 - 副本\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\bin\Debug\温度采集程序.exe.config
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\bin\Debug\温度采集程序.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\bin\Debug\温度采集程序.pdb
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\bin\Debug\温度采集程序.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\温度采集程序.exe
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\温度采集程序.xml
+C:\Users\17109\Desktop\操作串口的加热软件(Final)\WindowsApp6\obj\Debug\温度采集程序.pdb
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\bin\Debug\温度采集程序.exe.config
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\bin\Debug\温度采集程序.exe
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\bin\Debug\温度采集程序.pdb
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\bin\Debug\温度采集程序.xml
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.AssemblyReference.cache
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\温度采集程序.exe
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\温度采集程序.xml
+C:\Users\17109\Desktop\冰的导热系数的测定\温度采集程序(Final)\WindowsApp6\obj\Debug\温度采集程序.pdb
